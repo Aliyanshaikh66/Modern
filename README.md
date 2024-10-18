@@ -28,10 +28,10 @@ This module covers the essentials of web structure, styling, and responsiveness.
 ### ⚙️ **Module 2: JavaScript, Interactivity, and Git** (Month 3-5)  
 This module focuses on JavaScript programming and version control for creating dynamic web pages.  
 
-#### 📑 **JavaScript (From Basics to Intermediate)**  
-- **Fundamentals**: Variables, Data Types, and Operators  
-- **Control Structures**: Loops and Conditional Statements  
-- **Functions and Scope**  
+### 📑 **JavaScript (From Basics to Intermediate)**  
+- **Fundamentals**: Variables, Data Types, Operators  
+- **Control Structures**: Loops (for, while) and Conditional Statements (`if`, `else`, `switch`)  
+- **Functions and Scope**: Understanding function declarations, expressions, and closures  
 
 #### 🎯 **DOM Manipulation**  
 - Accessing HTML Elements  
